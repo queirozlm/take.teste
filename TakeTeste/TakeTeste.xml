@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TakeTeste</name>
+    </assembly>
+    <members>
+        <member name="M:TakeTeste.Controllers.TakeTesteController.Get">
+            <summary>
+            listar informações sobre os 5 repositórios de linguagem C# mais antigos da Take
+            </summary>
+        </member>
+    </members>
+</doc>
